@@ -12,7 +12,7 @@ Work with your group to interpret the instructions, strategize a way to solve th
 Some of these challenges are hard. You may only complete one or two of them. Don't sweat it. You can always come back and try to complete the more difficult ones at a later date. This activity is intended to give you practice.
 
 ## Files  
-The exercises are located in `main.js` in the 'starterfiles' folder. Open index.html (also in the 'starterfiles' folder) in your browser and open the console to see the failing assertion statements.
+The exercises are located in `main.js` in the 'starterfiles' folder. Open `index.html` (also in the 'starterfiles' folder) in your browser and open the console to see the failing assertion statements.
 
 ## Getting Started  
 Download the zip file.
